@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bonjou-app/.github/main/profile/assets/bonjou-mark.svg" alt="Bonjou logo" width="96" height="96" />
+</p>
+
 # Bonjou
 
 Open-source tools for sharing messages, files, and folders with end-to-end
